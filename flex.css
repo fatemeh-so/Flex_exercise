@@ -165,7 +165,7 @@
         transition: all 1s;
         justify-items: center;
         /* flex-wrap: wrap-reverse; */
-        font-size: 90px;
+        font-size: 50px;
         align-items:self-start;
         flex-direction: row;
         /* align-items: center; */
